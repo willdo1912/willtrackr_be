@@ -1,0 +1,857 @@
+[
+  {
+    "_id": "ce18cf77-9ce0-4408-b9ad-65462b377f40",
+    "item": {
+      "weight": {
+        "value": "80 kg",
+        "date": "01/10/2023"
+      },
+      "bmi": {
+        "value": "27 kg/m^2",
+        "date": "01/10/2023"
+      },
+      "waist": {
+        "value": "92 cm",
+        "date": "01/10/2023"
+      },
+      "blood_pressure": {
+        "value": "130/85 mmHg",
+        "date": "01/10/2023"
+      },
+      "triglyceride": {
+        "value": "165 mg/dL",
+        "date": "01/10/2023"
+      },
+      "non_hdl_cholesterol": {
+        "value": "145 mg/dL",
+        "date": "01/10/2023"
+      },
+      "hdl_cholesterol": {
+        "value": "40 mg/dL",
+        "date": "01/10/2023"
+      },
+      "blood_glucose": {
+        "value": "100 mg/dL",
+        "date": "01/10/2023"
+      },
+      "a_1_c": {
+        "value": "5.70%",
+        "date": "01/10/2023"
+      },
+      "other": {
+        "value": "Normal Iron Levels",
+        "date\r": "01/10/2023\r"
+      }
+    }
+  },
+  {
+    "_id": "45a33bdc-e8ce-424c-be7a-c171f4b93fb9",
+    "item": {
+      "weight": {
+        "value": "80 kg",
+        "date": "01/10/2023"
+      },
+      "bmi": {
+        "value": "27 kg/m^2",
+        "date": "01/10/2023"
+      },
+      "waist": {
+        "value": "92 cm",
+        "date": "01/10/2023"
+      },
+      "blood_pressure": {
+        "value": "130/85 mmHg",
+        "date": "01/10/2023"
+      },
+      "triglyceride": {
+        "value": "165 mg/dL",
+        "date": "01/10/2023"
+      },
+      "non_hdl_cholesterol": {
+        "value": "145 mg/dL",
+        "date": "01/10/2023"
+      },
+      "hdl_cholesterol": {
+        "value": "40 mg/dL",
+        "date": "01/10/2023"
+      },
+      "blood_glucose": {
+        "value": "100 mg/dL",
+        "date": "01/10/2023"
+      },
+      "a_1_c": {
+        "value": "5.70%",
+        "date": "01/10/2023"
+      },
+      "other": {
+        "value": "Normal Iron Levels",
+        "date\r": "01/10/2023\r"
+      }
+    }
+  },
+  {
+    "_id": "c174d955-c91d-4d22-b322-9b39cb28a8f9",
+    "item": {
+      "weight": {
+        "value": "81 kg",
+        "date": "02/10/2023"
+      },
+      "bmi": {
+        "value": "28 kg/m^2",
+        "date": "02/10/2023"
+      },
+      "waist": {
+        "value": "93 cm",
+        "date": "02/10/2023"
+      },
+      "blood_pressure": {
+        "value": "130/85 mmHg",
+        "date": "02/10/2023"
+      },
+      "triglyceride": {
+        "value": "166 mg/dL",
+        "date": "02/10/2023"
+      },
+      "non_hdl_cholesterol": {
+        "value": "146 mg/dL",
+        "date": "02/10/2023"
+      },
+      "hdl_cholesterol": {
+        "value": "41 mg/dL",
+        "date": "02/10/2023"
+      },
+      "blood_glucose": {
+        "value": "101 mg/dL",
+        "date": "02/10/2023"
+      },
+      "a_1_c": {
+        "value": "105.70%",
+        "date": "02/10/2023"
+      },
+      "other": {
+        "value": "Normal Iron Levels",
+        "date\r": "02/10/2023\r"
+      }
+    }
+  },
+  {
+    "_id": "bb6fdd9d-ad6e-4a90-98f9-42e8db56beae",
+    "item": {
+      "weight": {
+        "value": "82 kg",
+        "date": "03/10/2023"
+      },
+      "bmi": {
+        "value": "29 kg/m^2",
+        "date": "03/10/2023"
+      },
+      "waist": {
+        "value": "94 cm",
+        "date": "03/10/2023"
+      },
+      "blood_pressure": {
+        "value": "130/85 mmHg",
+        "date": "03/10/2023"
+      },
+      "triglyceride": {
+        "value": "167 mg/dL",
+        "date": "03/10/2023"
+      },
+      "non_hdl_cholesterol": {
+        "value": "147 mg/dL",
+        "date": "03/10/2023"
+      },
+      "hdl_cholesterol": {
+        "value": "42 mg/dL",
+        "date": "03/10/2023"
+      },
+      "blood_glucose": {
+        "value": "102 mg/dL",
+        "date": "03/10/2023"
+      },
+      "a_1_c": {
+        "value": "205.70%",
+        "date": "03/10/2023"
+      },
+      "other": {
+        "value": "Normal Iron Levels",
+        "date\r": "03/10/2023\r"
+      }
+    }
+  },
+  {
+    "_id": "45fd730d-c43e-4115-ab43-1bc865255b6a",
+    "item": {
+      "weight": {
+        "value": "83 kg",
+        "date": "04/10/2023"
+      },
+      "bmi": {
+        "value": "30 kg/m^2",
+        "date": "04/10/2023"
+      },
+      "waist": {
+        "value": "95 cm",
+        "date": "04/10/2023"
+      },
+      "blood_pressure": {
+        "value": "130/85 mmHg",
+        "date": "04/10/2023"
+      },
+      "triglyceride": {
+        "value": "168 mg/dL",
+        "date": "04/10/2023"
+      },
+      "non_hdl_cholesterol": {
+        "value": "148 mg/dL",
+        "date": "04/10/2023"
+      },
+      "hdl_cholesterol": {
+        "value": "43 mg/dL",
+        "date": "04/10/2023"
+      },
+      "blood_glucose": {
+        "value": "103 mg/dL",
+        "date": "04/10/2023"
+      },
+      "a_1_c": {
+        "value": "305.70%",
+        "date": "04/10/2023"
+      },
+      "other": {
+        "value": "Normal Iron Levels",
+        "date\r": "04/10/2023\r"
+      }
+    }
+  },
+  {
+    "_id": "cae90f8f-f6eb-4477-8f35-45e821aefdbc",
+    "item": {
+      "weight": {
+        "value": "84 kg",
+        "date": "05/10/2023"
+      },
+      "bmi": {
+        "value": "31 kg/m^2",
+        "date": "05/10/2023"
+      },
+      "waist": {
+        "value": "96 cm",
+        "date": "05/10/2023"
+      },
+      "blood_pressure": {
+        "value": "130/85 mmHg",
+        "date": "05/10/2023"
+      },
+      "triglyceride": {
+        "value": "169 mg/dL",
+        "date": "05/10/2023"
+      },
+      "non_hdl_cholesterol": {
+        "value": "149 mg/dL",
+        "date": "05/10/2023"
+      },
+      "hdl_cholesterol": {
+        "value": "44 mg/dL",
+        "date": "05/10/2023"
+      },
+      "blood_glucose": {
+        "value": "104 mg/dL",
+        "date": "05/10/2023"
+      },
+      "a_1_c": {
+        "value": "405.70%",
+        "date": "05/10/2023"
+      },
+      "other": {
+        "value": "Normal Iron Levels",
+        "date\r": "05/10/2023\r"
+      }
+    }
+  },
+  {
+    "_id": "4fe164cf-9b82-4422-9894-cc0c94a64296",
+    "item": {
+      "weight": {
+        "value": "85 kg",
+        "date": "06/10/2023"
+      },
+      "bmi": {
+        "value": "32 kg/m^2",
+        "date": "06/10/2023"
+      },
+      "waist": {
+        "value": "97 cm",
+        "date": "06/10/2023"
+      },
+      "blood_pressure": {
+        "value": "130/85 mmHg",
+        "date": "06/10/2023"
+      },
+      "triglyceride": {
+        "value": "170 mg/dL",
+        "date": "06/10/2023"
+      },
+      "non_hdl_cholesterol": {
+        "value": "150 mg/dL",
+        "date": "06/10/2023"
+      },
+      "hdl_cholesterol": {
+        "value": "45 mg/dL",
+        "date": "06/10/2023"
+      },
+      "blood_glucose": {
+        "value": "105 mg/dL",
+        "date": "06/10/2023"
+      },
+      "a_1_c": {
+        "value": "505.70%",
+        "date": "06/10/2023"
+      },
+      "other": {
+        "value": "Normal Iron Levels",
+        "date\r": "06/10/2023\r"
+      }
+    }
+  },
+  {
+    "_id": "4e9adb95-e73f-4f6a-93a8-4e660ecb5e62",
+    "item": {
+      "weight": {
+        "value": "86 kg",
+        "date": "07/10/2023"
+      },
+      "bmi": {
+        "value": "33 kg/m^2",
+        "date": "07/10/2023"
+      },
+      "waist": {
+        "value": "98 cm",
+        "date": "07/10/2023"
+      },
+      "blood_pressure": {
+        "value": "130/85 mmHg",
+        "date": "07/10/2023"
+      },
+      "triglyceride": {
+        "value": "171 mg/dL",
+        "date": "07/10/2023"
+      },
+      "non_hdl_cholesterol": {
+        "value": "151 mg/dL",
+        "date": "07/10/2023"
+      },
+      "hdl_cholesterol": {
+        "value": "46 mg/dL",
+        "date": "07/10/2023"
+      },
+      "blood_glucose": {
+        "value": "106 mg/dL",
+        "date": "07/10/2023"
+      },
+      "a_1_c": {
+        "value": "605.70%",
+        "date": "07/10/2023"
+      },
+      "other": {
+        "value": "Normal Iron Levels",
+        "date\r": "07/10/2023\r"
+      }
+    }
+  },
+  {
+    "_id": "9d6c0fa1-aae4-409b-bb1b-6cd43ac90835",
+    "item": {
+      "weight": {
+        "value": "87 kg",
+        "date": "08/10/2023"
+      },
+      "bmi": {
+        "value": "34 kg/m^2",
+        "date": "08/10/2023"
+      },
+      "waist": {
+        "value": "99 cm",
+        "date": "08/10/2023"
+      },
+      "blood_pressure": {
+        "value": "130/85 mmHg",
+        "date": "08/10/2023"
+      },
+      "triglyceride": {
+        "value": "172 mg/dL",
+        "date": "08/10/2023"
+      },
+      "non_hdl_cholesterol": {
+        "value": "152 mg/dL",
+        "date": "08/10/2023"
+      },
+      "hdl_cholesterol": {
+        "value": "47 mg/dL",
+        "date": "08/10/2023"
+      },
+      "blood_glucose": {
+        "value": "107 mg/dL",
+        "date": "08/10/2023"
+      },
+      "a_1_c": {
+        "value": "705.70%",
+        "date": "08/10/2023"
+      },
+      "other": {
+        "value": "Normal Iron Levels",
+        "date\r": "08/10/2023\r"
+      }
+    }
+  },
+  {
+    "_id": "156e50d4-ead7-4406-9ac8-831691357820",
+    "item": {
+      "weight": {
+        "value": "88 kg",
+        "date": "09/10/2023"
+      },
+      "bmi": {
+        "value": "35 kg/m^2",
+        "date": "09/10/2023"
+      },
+      "waist": {
+        "value": "100 cm",
+        "date": "09/10/2023"
+      },
+      "blood_pressure": {
+        "value": "130/85 mmHg",
+        "date": "09/10/2023"
+      },
+      "triglyceride": {
+        "value": "173 mg/dL",
+        "date": "09/10/2023"
+      },
+      "non_hdl_cholesterol": {
+        "value": "153 mg/dL",
+        "date": "09/10/2023"
+      },
+      "hdl_cholesterol": {
+        "value": "48 mg/dL",
+        "date": "09/10/2023"
+      },
+      "blood_glucose": {
+        "value": "108 mg/dL",
+        "date": "09/10/2023"
+      },
+      "a_1_c": {
+        "value": "805.70%",
+        "date": "09/10/2023"
+      },
+      "other": {
+        "value": "Normal Iron Levels",
+        "date\r": "09/10/2023\r"
+      }
+    }
+  },
+  {
+    "_id": "4efda58a-8c14-4f02-946e-7c8cca36e99e",
+    "item": {
+      "weight": {
+        "value": "89 kg",
+        "date": "10/10/2023"
+      },
+      "bmi": {
+        "value": "36 kg/m^2",
+        "date": "10/10/2023"
+      },
+      "waist": {
+        "value": "101 cm",
+        "date": "10/10/2023"
+      },
+      "blood_pressure": {
+        "value": "130/85 mmHg",
+        "date": "10/10/2023"
+      },
+      "triglyceride": {
+        "value": "174 mg/dL",
+        "date": "10/10/2023"
+      },
+      "non_hdl_cholesterol": {
+        "value": "154 mg/dL",
+        "date": "10/10/2023"
+      },
+      "hdl_cholesterol": {
+        "value": "49 mg/dL",
+        "date": "10/10/2023"
+      },
+      "blood_glucose": {
+        "value": "109 mg/dL",
+        "date": "10/10/2023"
+      },
+      "a_1_c": {
+        "value": "905.70%",
+        "date": "10/10/2023"
+      },
+      "other": {
+        "value": "Normal Iron Levels",
+        "date\r": "10/10/2023\r"
+      }
+    }
+  },
+  {
+    "_id": "098619f8-293b-48b4-9eab-e38eb24b6981",
+    "item": {
+      "weight": {
+        "value": "90 kg",
+        "date": "11/10/2023"
+      },
+      "bmi": {
+        "value": "37 kg/m^2",
+        "date": "11/10/2023"
+      },
+      "waist": {
+        "value": "102 cm",
+        "date": "11/10/2023"
+      },
+      "blood_pressure": {
+        "value": "130/85 mmHg",
+        "date": "11/10/2023"
+      },
+      "triglyceride": {
+        "value": "175 mg/dL",
+        "date": "11/10/2023"
+      },
+      "non_hdl_cholesterol": {
+        "value": "155 mg/dL",
+        "date": "11/10/2023"
+      },
+      "hdl_cholesterol": {
+        "value": "50 mg/dL",
+        "date": "11/10/2023"
+      },
+      "blood_glucose": {
+        "value": "110 mg/dL",
+        "date": "11/10/2023"
+      },
+      "a_1_c": {
+        "value": "1005.70%",
+        "date": "11/10/2023"
+      },
+      "other": {
+        "value": "Normal Iron Levels",
+        "date\r": "11/10/2023\r"
+      }
+    }
+  },
+  {
+    "_id": "393371e3-dac0-4410-8cc7-f8c64e41698e",
+    "item": {
+      "weight": {
+        "value": "91 kg",
+        "date": "12/10/2023"
+      },
+      "bmi": {
+        "value": "38 kg/m^2",
+        "date": "12/10/2023"
+      },
+      "waist": {
+        "value": "103 cm",
+        "date": "12/10/2023"
+      },
+      "blood_pressure": {
+        "value": "130/85 mmHg",
+        "date": "12/10/2023"
+      },
+      "triglyceride": {
+        "value": "176 mg/dL",
+        "date": "12/10/2023"
+      },
+      "non_hdl_cholesterol": {
+        "value": "156 mg/dL",
+        "date": "12/10/2023"
+      },
+      "hdl_cholesterol": {
+        "value": "51 mg/dL",
+        "date": "12/10/2023"
+      },
+      "blood_glucose": {
+        "value": "111 mg/dL",
+        "date": "12/10/2023"
+      },
+      "a_1_c": {
+        "value": "1105.70%",
+        "date": "12/10/2023"
+      },
+      "other": {
+        "value": "Normal Iron Levels",
+        "date\r": "12/10/2023\r"
+      }
+    }
+  },
+  {
+    "_id": "5e88b433-2e06-488b-8d66-81fc45011473",
+    "item": {
+      "weight": {
+        "value": "92 kg",
+        "date": "13/10/2023"
+      },
+      "bmi": {
+        "value": "39 kg/m^2",
+        "date": "13/10/2023"
+      },
+      "waist": {
+        "value": "104 cm",
+        "date": "13/10/2023"
+      },
+      "blood_pressure": {
+        "value": "130/85 mmHg",
+        "date": "13/10/2023"
+      },
+      "triglyceride": {
+        "value": "177 mg/dL",
+        "date": "13/10/2023"
+      },
+      "non_hdl_cholesterol": {
+        "value": "157 mg/dL",
+        "date": "13/10/2023"
+      },
+      "hdl_cholesterol": {
+        "value": "52 mg/dL",
+        "date": "13/10/2023"
+      },
+      "blood_glucose": {
+        "value": "112 mg/dL",
+        "date": "13/10/2023"
+      },
+      "a_1_c": {
+        "value": "1205.70%",
+        "date": "13/10/2023"
+      },
+      "other": {
+        "value": "Normal Iron Levels",
+        "date\r": "13/10/2023\r"
+      }
+    }
+  },
+  {
+    "_id": "b7cb745a-6246-4848-bee6-69a9966e6234",
+    "item": {
+      "weight": {
+        "value": "93 kg",
+        "date": "14/10/2023"
+      },
+      "bmi": {
+        "value": "40 kg/m^2",
+        "date": "14/10/2023"
+      },
+      "waist": {
+        "value": "105 cm",
+        "date": "14/10/2023"
+      },
+      "blood_pressure": {
+        "value": "130/85 mmHg",
+        "date": "14/10/2023"
+      },
+      "triglyceride": {
+        "value": "178 mg/dL",
+        "date": "14/10/2023"
+      },
+      "non_hdl_cholesterol": {
+        "value": "158 mg/dL",
+        "date": "14/10/2023"
+      },
+      "hdl_cholesterol": {
+        "value": "53 mg/dL",
+        "date": "14/10/2023"
+      },
+      "blood_glucose": {
+        "value": "113 mg/dL",
+        "date": "14/10/2023"
+      },
+      "a_1_c": {
+        "value": "1305.70%",
+        "date": "14/10/2023"
+      },
+      "other": {
+        "value": "Normal Iron Levels",
+        "date\r": "14/10/2023\r"
+      }
+    }
+  },
+  {
+    "_id": "306a7af6-00ca-4a8d-a1a0-77edadde639c",
+    "item": {
+      "weight": {
+        "value": "94 kg",
+        "date": "15/10/2023"
+      },
+      "bmi": {
+        "value": "41 kg/m^2",
+        "date": "15/10/2023"
+      },
+      "waist": {
+        "value": "106 cm",
+        "date": "15/10/2023"
+      },
+      "blood_pressure": {
+        "value": "130/85 mmHg",
+        "date": "15/10/2023"
+      },
+      "triglyceride": {
+        "value": "179 mg/dL",
+        "date": "15/10/2023"
+      },
+      "non_hdl_cholesterol": {
+        "value": "159 mg/dL",
+        "date": "15/10/2023"
+      },
+      "hdl_cholesterol": {
+        "value": "54 mg/dL",
+        "date": "15/10/2023"
+      },
+      "blood_glucose": {
+        "value": "114 mg/dL",
+        "date": "15/10/2023"
+      },
+      "a_1_c": {
+        "value": "1405.70%",
+        "date": "15/10/2023"
+      },
+      "other": {
+        "value": "Normal Iron Levels",
+        "date\r": "15/10/2023\r"
+      }
+    }
+  },
+  {
+    "_id": "6ee2bfb3-f487-4e1c-86f1-8c410c3dd1d4",
+    "item": {
+      "weight": {
+        "value": "95 kg",
+        "date": "16/10/2023"
+      },
+      "bmi": {
+        "value": "42 kg/m^2",
+        "date": "16/10/2023"
+      },
+      "waist": {
+        "value": "107 cm",
+        "date": "16/10/2023"
+      },
+      "blood_pressure": {
+        "value": "130/85 mmHg",
+        "date": "16/10/2023"
+      },
+      "triglyceride": {
+        "value": "180 mg/dL",
+        "date": "16/10/2023"
+      },
+      "non_hdl_cholesterol": {
+        "value": "160 mg/dL",
+        "date": "16/10/2023"
+      },
+      "hdl_cholesterol": {
+        "value": "55 mg/dL",
+        "date": "16/10/2023"
+      },
+      "blood_glucose": {
+        "value": "115 mg/dL",
+        "date": "16/10/2023"
+      },
+      "a_1_c": {
+        "value": "1505.70%",
+        "date": "16/10/2023"
+      },
+      "other": {
+        "value": "Normal Iron Levels",
+        "date\r": "16/10/2023\r"
+      }
+    }
+  },
+  {
+    "_id": "4ffbef38-6bc9-46e5-8388-202f4e6cdb59",
+    "item": {
+      "weight": {
+        "value": "96 kg",
+        "date": "17/10/2023"
+      },
+      "bmi": {
+        "value": "43 kg/m^2",
+        "date": "17/10/2023"
+      },
+      "waist": {
+        "value": "108 cm",
+        "date": "17/10/2023"
+      },
+      "blood_pressure": {
+        "value": "130/85 mmHg",
+        "date": "17/10/2023"
+      },
+      "triglyceride": {
+        "value": "181 mg/dL",
+        "date": "17/10/2023"
+      },
+      "non_hdl_cholesterol": {
+        "value": "161 mg/dL",
+        "date": "17/10/2023"
+      },
+      "hdl_cholesterol": {
+        "value": "56 mg/dL",
+        "date": "17/10/2023"
+      },
+      "blood_glucose": {
+        "value": "116 mg/dL",
+        "date": "17/10/2023"
+      },
+      "a_1_c": {
+        "value": "1605.70%",
+        "date": "17/10/2023"
+      },
+      "other": {
+        "value": "Normal Iron Levels",
+        "date\r": "17/10/2023\r"
+      }
+    }
+  },
+  {
+    "_id": "6949ff27-de61-49b7-9e50-5bdaa4b10b2b",
+    "item": {
+      "weight": {
+        "value": "97 kg",
+        "date": "18/10/2023"
+      },
+      "bmi": {
+        "value": "44 kg/m^2",
+        "date": "18/10/2023"
+      },
+      "waist": {
+        "value": "109 cm",
+        "date": "18/10/2023"
+      },
+      "blood_pressure": {
+        "value": "130/85 mmHg",
+        "date": "18/10/2023"
+      },
+      "triglyceride": {
+        "value": "182 mg/dL",
+        "date": "18/10/2023"
+      },
+      "non_hdl_cholesterol": {
+        "value": "162 mg/dL",
+        "date": "18/10/2023"
+      },
+      "hdl_cholesterol": {
+        "value": "57 mg/dL",
+        "date": "18/10/2023"
+      },
+      "blood_glucose": {
+        "value": "117 mg/dL",
+        "date": "18/10/2023"
+      },
+      "a_1_c": {
+        "value": "1705.70%",
+        "date": "18/10/2023"
+      },
+      "other": {
+        "value": "Normal Iron Levels",
+        "date\r": "18/10/2023\r\n"
+      }
+    }
+  }
+]

@@ -1,0 +1,843 @@
+{
+  "filter_count": {
+    "brand": [
+      {
+        "_id": "Yves Saint Laurent",
+        "count": 38
+      },
+      {
+        "_id": "Yardley",
+        "count": 15
+      },
+      {
+        "_id": "Viktor & Rolf",
+        "count": 10
+      },
+      {
+        "_id": "Versace",
+        "count": 14
+      },
+      {
+        "_id": "Vera Wang",
+        "count": 2
+      },
+      {
+        "_id": "Valentino",
+        "count": 18
+      },
+      {
+        "_id": "Travalo",
+        "count": 3
+      },
+      {
+        "_id": "Tommy Hilfiger",
+        "count": 3
+      },
+      {
+        "_id": "Tom Ford",
+        "count": 19
+      },
+      {
+        "_id": "Tiffany",
+        "count": 13
+      },
+      {
+        "_id": "Ted Baker",
+        "count": 3
+      },
+      {
+        "_id": "Soulcal",
+        "count": 1
+      },
+      {
+        "_id": "Sol de Janeiro",
+        "count": 4
+      },
+      {
+        "_id": "Ralph Lauren",
+        "count": 6
+      },
+      {
+        "_id": "Pure&Co",
+        "count": 7
+      },
+      {
+        "_id": "Prada",
+        "count": 20
+      },
+      {
+        "_id": "Paco Rabanne",
+        "count": 28
+      },
+      {
+        "_id": "Narciso Rodriguez",
+        "count": 21
+      },
+      {
+        "_id": "Mugler",
+        "count": 29
+      },
+      {
+        "_id": "Moschino",
+        "count": 5
+      },
+      {
+        "_id": "Montblanc",
+        "count": 1
+      },
+      {
+        "_id": "Momento",
+        "count": 7
+      },
+      {
+        "_id": "Michael Kors",
+        "count": 5
+      },
+      {
+        "_id": "Marc Jacobs",
+        "count": 36
+      },
+      {
+        "_id": "Liz Earle",
+        "count": 4
+      },
+      {
+        "_id": "Lancome",
+        "count": 33
+      },
+      {
+        "_id": "Lacoste",
+        "count": 1
+      },
+      {
+        "_id": "L'Aimant",
+        "count": 1
+      },
+      {
+        "_id": "Kenzo",
+        "count": 6
+      },
+      {
+        "_id": "Kayali",
+        "count": 17
+      },
+      {
+        "_id": "Kate Spade",
+        "count": 2
+      },
+      {
+        "_id": "Karl Lagerfeld",
+        "count": 6
+      },
+      {
+        "_id": "Juicy Couture",
+        "count": 7
+      },
+      {
+        "_id": "Jimmy Choo",
+        "count": 18
+      },
+      {
+        "_id": "Jennifer Lopez",
+        "count": 5
+      },
+      {
+        "_id": "Jean Paul Gaultier",
+        "count": 16
+      },
+      {
+        "_id": "Issey Miyake",
+        "count": 9
+      },
+      {
+        "_id": "In The Mood",
+        "count": 10
+      },
+      {
+        "_id": "Hugo Boss",
+        "count": 21
+      },
+      {
+        "_id": "Hermes",
+        "count": 18
+      },
+      {
+        "_id": "Gucci",
+        "count": 32
+      },
+      {
+        "_id": "Givenchy",
+        "count": 33
+      },
+      {
+        "_id": "Giorgio Beverly Hills",
+        "count": 1
+      },
+      {
+        "_id": "Giorgio Armani",
+        "count": 23
+      },
+      {
+        "_id": "Ghost",
+        "count": 7
+      },
+      {
+        "_id": "Fenty Fragrance",
+        "count": 1
+      },
+      {
+        "_id": "Estee Lauder",
+        "count": 43
+      },
+      {
+        "_id": "Escentuals",
+        "count": 1
+      },
+      {
+        "_id": "Emporio Armani",
+        "count": 7
+      },
+      {
+        "_id": "Elizabeth Taylor",
+        "count": 1
+      },
+      {
+        "_id": "Elizabeth Arden",
+        "count": 12
+      },
+      {
+        "_id": "Elie Saab",
+        "count": 7
+      },
+      {
+        "_id": "Dolce & Gabbana",
+        "count": 12
+      },
+      {
+        "_id": "Diesel",
+        "count": 4
+      },
+      {
+        "_id": "Davidoff",
+        "count": 2
+      },
+      {
+        "_id": "DKNY",
+        "count": 5
+      },
+      {
+        "_id": "Clinique",
+        "count": 16
+      },
+      {
+        "_id": "Clarins",
+        "count": 4
+      },
+      {
+        "_id": "Christina Aguilera",
+        "count": 4
+      },
+      {
+        "_id": "Christian Dior",
+        "count": 70
+      },
+      {
+        "_id": "Chloe",
+        "count": 13
+      },
+      {
+        "_id": "Cerruti",
+        "count": 1
+      },
+      {
+        "_id": "Caudalie",
+        "count": 1
+      },
+      {
+        "_id": "Carolina Herrera",
+        "count": 12
+      },
+      {
+        "_id": "Calvin Klein",
+        "count": 16
+      },
+      {
+        "_id": "Cacharel",
+        "count": 11
+      },
+      {
+        "_id": "Burberry",
+        "count": 14
+      },
+      {
+        "_id": "Britney Spears",
+        "count": 9
+      },
+      {
+        "_id": "Billie Eilish",
+        "count": 4
+      },
+      {
+        "_id": "Azzaro",
+        "count": 10
+      },
+      {
+        "_id": "Ariana Grande",
+        "count": 35
+      },
+      {
+        "_id": "Ann Summers",
+        "count": 8
+      }
+    ],
+    "rating": [
+      {
+        "_id": 5,
+        "count": 61
+      },
+      {
+        "_id": 4,
+        "count": 716
+      },
+      {
+        "_id": 3,
+        "count": 52
+      },
+      {
+        "_id": 2,
+        "count": 1
+      },
+      {
+        "_id": 1,
+        "count": 3
+      }
+    ],
+    "promotions": [
+      {
+        "_id": "£43.00 with Advantage Card",
+        "count": 1
+      },
+      {
+        "_id": "£10 worth of Advantage Card points when you buy 2 selected Clarins products, one to be skincare or foundation",
+        "count": 2
+      },
+      {
+        "_id": "Use code LIZEARLE10 to save £10 when you spend £30 on selected Liz Earle - online only",
+        "count": 4
+      },
+      {
+        "_id": "Try Me First, receive a free sample to try first when you buy Rabanne Fame Parfum - online only, whilst stocks last",
+        "count": 4
+      },
+      {
+        "_id": "Spend £45 on selected Elizabeth Arden and receive Elizabeth Arden Icons Set for £75, worth £281",
+        "count": 11
+      },
+      {
+        "_id": "Save £44 on Vera Wang Princess for Women Eau de Toilette 100ml - online only",
+        "count": 1
+      },
+      {
+        "_id": "Save £40 on Q By Dolce and Gabbana Eau de Parfum 100ml",
+        "count": 1
+      },
+      {
+        "_id": "Save £37 on Giorgio Armani My Way Eau de Parfum 50ml Refillable - online only",
+        "count": 1
+      },
+      {
+        "_id": "Save £28.50 on Gucci Flora Gorgeous Jasmine 50ml EDP",
+        "count": 1
+      },
+      {
+        "_id": "Save £28 on Marc Jacobs Daisy Eau De Toilette 50ml - online only",
+        "count": 1
+      },
+      {
+        "_id": "Save £28 on Emporio Armani Diamonds Eau de Parfum 50ml - online only",
+        "count": 1
+      },
+      {
+        "_id": "Save £27 on BOSS The Scent For Her Eau de Parfum 50ml",
+        "count": 1
+      },
+      {
+        "_id": "Save £15 on selected fragrance",
+        "count": 8
+      },
+      {
+        "_id": "Save up to 25 percent across selected Premium Beauty",
+        "count": 84
+      },
+      {
+        "_id": "Save up to 20 percent on selected fragrances",
+        "count": 442
+      },
+      {
+        "_id": "Save up to 1/3 on selected Womens Health and Wellness - online only",
+        "count": 1
+      },
+      {
+        "_id": "Save up to 1/2 price on selected fragrances",
+        "count": 86
+      },
+      {
+        "_id": "Save 20 percent on selected fragrance",
+        "count": 1
+      },
+      {
+        "_id": "Save 15 percent on selected fragrance",
+        "count": 42
+      },
+      {
+        "_id": "Save 15 percent on selected Caudalie",
+        "count": 1
+      },
+      {
+        "_id": "Save 1/3 on selected Estee Lauder fragrances - online only, while stocks last",
+        "count": 2
+      },
+      {
+        "_id": "Free gift when you spend £65 or more on selected Clinique - online only while stocks last",
+        "count": 15
+      },
+      {
+        "_id": "Free gift when you buy selected Viktor and Rolf Good Fortune fragrances - online only, whilst stocks last",
+        "count": 2
+      },
+      {
+        "_id": "Free gift when you buy selected Valentino fragrances 50ml and above - online only, whilst stocks last",
+        "count": 1
+      },
+      {
+        "_id": "Free gift when you buy selected Tiffany and Co. Rose Gold fragrance - online only, whilst stocks last",
+        "count": 1
+      },
+      {
+        "_id": "Free gift when you buy selected Prada - whilst stocks last",
+        "count": 6
+      },
+      {
+        "_id": "Free gift when you buy selected Narciso Rodriguez - while stocks last",
+        "count": 2
+      },
+      {
+        "_id": "Free gift when you buy selected Mugler - whilst stocks last",
+        "count": 11
+      },
+      {
+        "_id": "Free gift when you buy selected Marc Jacobs - while stocks last",
+        "count": 6
+      },
+      {
+        "_id": "Free gift when you buy selected Lancome - whilst stocks last",
+        "count": 15
+      },
+      {
+        "_id": "Free gift when you buy selected Jimmy Choo fragrances - online only, whilst stocks last",
+        "count": 12
+      },
+      {
+        "_id": "Free gift when you buy selected Hugo Boss fragrance - online only, whilst stocks last",
+        "count": 4
+      },
+      {
+        "_id": "Free gift when you buy selected Hermes fragrance - online only, whilst stocks last",
+        "count": 17
+      },
+      {
+        "_id": "Free gift when you buy selected Givenchy - whilst stocks last",
+        "count": 9
+      },
+      {
+        "_id": "Free gift when you buy selected Diesel fragrance - online only, whilst stocks last",
+        "count": 2
+      },
+      {
+        "_id": "Free gift when you buy selected Chloe fragrances - while stocks last",
+        "count": 7
+      },
+      {
+        "_id": "Free gift when you buy selected Chloe fragrance - online only, whilst stocks last",
+        "count": 5
+      },
+      {
+        "_id": "Free gift when you buy selected Carolina Herrera - whilst stocks last",
+        "count": 7
+      },
+      {
+        "_id": "Free gift when you buy selected Burberry Hero fragrance - online only, whilst stocks last",
+        "count": 1
+      },
+      {
+        "_id": "Free gift when you buy selected Burberry - whilst stocks last",
+        "count": 3
+      },
+      {
+        "_id": "Free gift when you buy 3 selected Lancome Products, 1 to be Skincare - whilst stocks last",
+        "count": 15
+      },
+      {
+        "_id": "Free Narciso Rodriguez mirror and case when you buy selected fragrance - online only, whilst stocks last",
+        "count": 13
+      },
+      {
+        "_id": "Free Giorgio Armani Valentines Day Lip Power Mini 104 when you buy Giorgio Armani Si 100ml or above - whilst stocks last",
+        "count": 3
+      },
+      {
+        "_id": "Free Giorgio Armani Si Eau de Parfum 15ml when you buy Giorgio Armani Si 50ml or above - whilst stocks last",
+        "count": 6
+      },
+      {
+        "_id": "Free Giorgio Armani Black Premium Pouch when you buy Giorgio Armani Si 100ml or above - whilst stocks last",
+        "count": 3
+      },
+      {
+        "_id": "Free Exclusive Tom Ford Black Orchid 10ml when you buy Black Orchid Eau De Parfum 100ml or above - online only, while stocks last",
+        "count": 1
+      },
+      {
+        "_id": "Clearance - when its gone its gone",
+        "count": 2
+      },
+      {
+        "_id": "Better than 1/2 price on selected fragrance gift sets",
+        "count": 5
+      },
+      {
+        "_id": "Better than 1/2 price on Jennifer Lopez ONE",
+        "count": 1
+      },
+      {
+        "_id": "Better than 1/2 price on Ghost Eau De Toilette Spray 50ml",
+        "count": 1
+      },
+      {
+        "_id": "1/2 price on selected fragrance gift sets",
+        "count": 53
+      },
+      {
+        "_id": "1/2 price on Marc Jacobs Dot Eau De Parfum 50ml - online only",
+        "count": 1
+      },
+      {
+        "_id": "1/2 price on Issey Miyake A Drop dlssey Eau de Parfum 50ml - online only",
+        "count": 1
+      },
+      {
+        "_id": "1/2 price - Save £50 on Lancome La Vie Est Belle Iris Absolu 50ml - online only",
+        "count": 1
+      }
+    ],
+    "product_type": [
+      {
+        "_id": "travel fragrance",
+        "count": 2
+      },
+      {
+        "_id": "skincare",
+        "count": 3
+      },
+      {
+        "_id": "shower gel",
+        "count": 2
+      },
+      {
+        "_id": "perfume",
+        "count": 81
+      },
+      {
+        "_id": "hair oil",
+        "count": 1
+      },
+      {
+        "_id": "gift set",
+        "count": 55
+      },
+      {
+        "_id": "gift box",
+        "count": 1
+      },
+      {
+        "_id": "deodorant",
+        "count": 2
+      },
+      {
+        "_id": "bubble bath",
+        "count": 1
+      },
+      {
+        "_id": "body wash",
+        "count": 1
+      },
+      {
+        "_id": "body spray",
+        "count": 140
+      },
+      {
+        "_id": "body lotion",
+        "count": 6
+      },
+      {
+        "_id": "bath bombs",
+        "count": 1
+      }
+    ],
+    "gender": [
+      {
+        "_id": "womens",
+        "count": 683
+      },
+      {
+        "_id": "unisex",
+        "count": 32
+      },
+      {
+        "_id": "mens",
+        "count": 44
+      }
+    ],
+    "size": [
+      {
+        "_id": "one size",
+        "count": 8
+      },
+      {
+        "_id": "71-100",
+        "count": 237
+      },
+      {
+        "_id": "51-70",
+        "count": 18
+      },
+      {
+        "_id": "50 - 99 ml",
+        "count": 1
+      },
+      {
+        "_id": "41-50",
+        "count": 274
+      },
+      {
+        "_id": "31-40",
+        "count": 17
+      },
+      {
+        "_id": "3",
+        "count": 4
+      },
+      {
+        "_id": "25 - 49 ml",
+        "count": 1
+      },
+      {
+        "_id": "21-30",
+        "count": 119
+      },
+      {
+        "_id": "201-499",
+        "count": 1
+      },
+      {
+        "_id": "200",
+        "count": 5
+      },
+      {
+        "_id": "151-200",
+        "count": 9
+      },
+      {
+        "_id": "11-20",
+        "count": 5
+      },
+      {
+        "_id": "101-150",
+        "count": 29
+      },
+      {
+        "_id": "10",
+        "count": 5
+      },
+      {
+        "_id": "0-10",
+        "count": 9
+      }
+    ],
+    "gift_type": [
+      {
+        "_id": "vegan gifts",
+        "count": 2
+      },
+      {
+        "_id": "stocking fillers",
+        "count": 19
+      },
+      {
+        "_id": "star gifts",
+        "count": 1
+      },
+      {
+        "_id": "premium beauty gifts",
+        "count": 5
+      },
+      {
+        "_id": "pamper gifts",
+        "count": 4
+      },
+      {
+        "_id": "fragrance gifts",
+        "count": 185
+      },
+      {
+        "_id": "fragrance gift sets",
+        "count": 26
+      },
+      {
+        "_id": "bath & body gifts",
+        "count": 4
+      }
+    ],
+    "recipient": [
+      {
+        "_id": "secret santa",
+        "count": 48
+      },
+      {
+        "_id": "gifts for women",
+        "count": 150
+      },
+      {
+        "_id": "gifts for teens",
+        "count": 3
+      },
+      {
+        "_id": "gifts for men",
+        "count": 4
+      },
+      {
+        "_id": "gifts for couples",
+        "count": 2
+      }
+    ],
+    "body_area": [
+      {
+        "_id": "hair",
+        "count": 1
+      },
+      {
+        "_id": "body",
+        "count": 38
+      }
+    ],
+    "product_format": [
+      {
+        "_id": "spray",
+        "count": 326
+      },
+      {
+        "_id": "roll-on",
+        "count": 1
+      },
+      {
+        "_id": "oil",
+        "count": 1
+      },
+      {
+        "_id": "liquid",
+        "count": 3
+      }
+    ],
+    "fragrance_type": [
+      {
+        "_id": "parfum",
+        "count": 23
+      },
+      {
+        "_id": "eau de toilette",
+        "count": 225
+      },
+      {
+        "_id": "eau de parfum",
+        "count": 614
+      },
+      {
+        "_id": "eau de cologne",
+        "count": 3
+      },
+      {
+        "_id": "aftershave",
+        "count": 15
+      }
+    ],
+    "fragrance_scent": [
+      {
+        "_id": "woody",
+        "count": 227
+      },
+      {
+        "_id": "vanilla",
+        "count": 144
+      },
+      {
+        "_id": "sweet",
+        "count": 56
+      },
+      {
+        "_id": "spicy",
+        "count": 31
+      },
+      {
+        "_id": "oriental",
+        "count": 1
+      },
+      {
+        "_id": "musk",
+        "count": 140
+      },
+      {
+        "_id": "jasmine",
+        "count": 94
+      },
+      {
+        "_id": "fruity",
+        "count": 223
+      },
+      {
+        "_id": "floral",
+        "count": 612
+      },
+      {
+        "_id": "coffee",
+        "count": 8
+      },
+      {
+        "_id": "citrus",
+        "count": 87
+      },
+      {
+        "_id": "chypre",
+        "count": 21
+      },
+      {
+        "_id": "aromatic",
+        "count": 33
+      },
+      {
+        "_id": "aquatic",
+        "count": 12
+      },
+      {
+        "_id": "amber",
+        "count": 219
+      }
+    ],
+    "price_range": [
+      {
+        "_id": null,
+        "minPrice": 1.8,
+        "maxPrice": 159.8
+      }
+    ]
+  }
+}
